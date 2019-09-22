@@ -1,0 +1,1 @@
+# cmake_gtest_gmock_example
